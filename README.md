@@ -5,6 +5,7 @@
 ## Tools & Tech Stack
 
 - NextJS - Framework
+- React Query
 - Emotion JS - Styling 
 - JSON Server
 
